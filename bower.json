@@ -1,8 +1,8 @@
 {
-  "name": "ng-table-export",
+  "name": "ng-table-export-yohairosen",
   "version": "0.1.0",
   "main": [
-    "ng-table-export.js"
+    "ng-table-export.src.js"
   ],
   "ignore": [
     "src"
